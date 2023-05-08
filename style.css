@@ -1,0 +1,18 @@
+h1 {
+    background-color: black;
+    color: white;
+}
+/* adjusts text to the color aqua */
+span{
+    color:aqua;
+}
+h2 {
+    background-color: purple;
+    text-align: center;
+    color: white;
+}
+h3 {
+    background-color: cornflowerblue;
+    text-align: right;
+    color: blueviolet;
+}
